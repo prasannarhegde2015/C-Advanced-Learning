@@ -63,12 +63,15 @@ namespace UpdateRTUEMuXMLFiles
             openFileDialog1.FileName = "";
             openFileDialog1.ShowDialog();
             string flname = openFileDialog1.FileName;
-            label5.Font = new Font(label1.Font, FontStyle.Bold);
-            label5.Visible = true;
-            label5.ForeColor = Color.Blue;
-            label5.BackColor = Color.White;
-            label5.Text = "File Opened: "+flname;
-            this.fname = flname;
+            if (flname.Length > 0)
+            {
+                label5.Font = new Font(label1.Font, FontStyle.Bold);
+                label5.Visible = true;
+                label5.ForeColor = Color.Blue;
+                label5.BackColor = Color.White;
+                label5.Text = "File Opened: " + flname;
+                this.fname = flname;
+            }
         }
         #endregion
 
@@ -139,6 +142,8 @@ namespace UpdateRTUEMuXMLFiles
                         else
                         {
                             MessageBox.Show("Enter Attribute Name to Look for", "XML updater", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            resetlable();
+                            return;
                         }
 
                     }
@@ -177,6 +182,8 @@ namespace UpdateRTUEMuXMLFiles
                         else
                         {
                             MessageBox.Show("No Matching Attribute  "+comboBox3.SelectedItem.ToString()+ " Found" , "XML updater", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            resetlable();
+                            return;
                         }
                         break;
                     }
@@ -224,6 +231,7 @@ namespace UpdateRTUEMuXMLFiles
                 if (File.Exists(fname) == false)
                 {
                     MessageBox.Show("File Does not exist on this machine", "XML updater", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    resetlable();
                     return;
                 }
                 xmlDoc.Load(this.fname);
@@ -233,6 +241,7 @@ namespace UpdateRTUEMuXMLFiles
                 if (xnList.Count == 0)
                 {
                     MessageBox.Show("No matching tagnames found ", "XML updater", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    resetlable();
                     return;
                 }
                 string attrname = "";
@@ -255,6 +264,7 @@ namespace UpdateRTUEMuXMLFiles
                     else
                     {
                         MessageBox.Show("Please enter Max and min for Random values: ", "XML updater", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        resetlable(); 
                     }
                 }
                 #region eachnode2
@@ -270,6 +280,7 @@ namespace UpdateRTUEMuXMLFiles
                         else
                         {
                             MessageBox.Show("Enter Attribute Name to Look for", "XML updater", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                            resetlable();
                         }
 
                     }
@@ -359,16 +370,26 @@ namespace UpdateRTUEMuXMLFiles
                     sb.Append(";");
                 }
 
-                if ( sb.ToString().Contains(attribute))
+                //if ( sb.ToString().Contains(attribute))
+                //{
+                //    isp = true;
+                //}
+                //else
+                //{
+                //    isp =false;
+                //}
+
+                string[] arrattributes = sb.ToString().Split(';');
+                foreach (string indatt in arrattributes)
                 {
-                    isp = true;
-                }
-                else
-                {
-                    isp =false;
+                    if (indatt == attribute)
+                    {
+                        isp = true;
+                        break;
+                    }
                 }
             }
-
+            sb.Clear();
             return isp;
         }
 
