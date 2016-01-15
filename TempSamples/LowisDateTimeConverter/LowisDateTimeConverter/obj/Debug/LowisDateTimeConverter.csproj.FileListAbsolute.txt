@@ -1,0 +1,8 @@
+E:\Project\C# Advanced Learning\TempSamples\LowisDateTimeConverter\LowisDateTimeConverter\bin\Debug\LowisDateTimeConverter.exe.config
+E:\Project\C# Advanced Learning\TempSamples\LowisDateTimeConverter\LowisDateTimeConverter\bin\Debug\LowisDateTimeConverter.exe
+E:\Project\C# Advanced Learning\TempSamples\LowisDateTimeConverter\LowisDateTimeConverter\bin\Debug\LowisDateTimeConverter.pdb
+E:\Project\C# Advanced Learning\TempSamples\LowisDateTimeConverter\LowisDateTimeConverter\obj\Debug\LowisDateTimeConverter.Form1.resources
+E:\Project\C# Advanced Learning\TempSamples\LowisDateTimeConverter\LowisDateTimeConverter\obj\Debug\LowisDateTimeConverter.Properties.Resources.resources
+E:\Project\C# Advanced Learning\TempSamples\LowisDateTimeConverter\LowisDateTimeConverter\obj\Debug\LowisDateTimeConverter.csproj.GenerateResource.Cache
+E:\Project\C# Advanced Learning\TempSamples\LowisDateTimeConverter\LowisDateTimeConverter\obj\Debug\LowisDateTimeConverter.exe
+E:\Project\C# Advanced Learning\TempSamples\LowisDateTimeConverter\LowisDateTimeConverter\obj\Debug\LowisDateTimeConverter.pdb

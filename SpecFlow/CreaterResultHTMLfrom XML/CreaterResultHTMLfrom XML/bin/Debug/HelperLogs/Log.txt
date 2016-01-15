@@ -1,0 +1,42 @@
+19-Nov-2015 10:32:44:[Starting GetTestData]
+19-Nov-2015 10:32:46:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:32:46:	Cleared old data from data sheet
+19-Nov-2015 10:32:51:[Starting GetTestData]
+19-Nov-2015 10:32:51:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:32:51:	Cleared old data from data sheet
+19-Nov-2015 10:32:51:[Starting GetTestData]
+19-Nov-2015 10:32:51:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:32:51:	Cleared old data from data sheet
+19-Nov-2015 10:32:51:[Starting GetTestData]
+19-Nov-2015 10:32:51:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:32:51:	Cleared old data from data sheet
+19-Nov-2015 10:32:51:[Starting GetTestData]
+19-Nov-2015 10:32:51:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:32:51:	Cleared old data from data sheet
+19-Nov-2015 10:32:52:[Starting GetTestData]
+19-Nov-2015 10:32:52:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:32:52:	Cleared old data from data sheet
+19-Nov-2015 10:32:52:[Starting GetTestData]
+19-Nov-2015 10:32:52:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:32:52:	Cleared old data from data sheet
+19-Nov-2015 10:32:52:[Starting GetTestData]
+19-Nov-2015 10:32:52:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:32:52:	Cleared old data from data sheet
+19-Nov-2015 10:32:52:[Starting GetTestData]
+19-Nov-2015 10:32:52:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:32:52:	Cleared old data from data sheet
+19-Nov-2015 10:32:52:[Starting GetTestData]
+19-Nov-2015 10:32:52:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:32:52:	Cleared old data from data sheet
+19-Nov-2015 10:36:13:[Starting GetTestData]
+19-Nov-2015 10:36:13:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:36:13:	Cleared old data from data sheet
+19-Nov-2015 10:36:14:[Starting GetTestData]
+19-Nov-2015 10:36:14:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:36:14:	Cleared old data from data sheet
+19-Nov-2015 10:38:31:[Starting GetTestData]
+19-Nov-2015 10:38:31:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:38:31:	Cleared old data from data sheet
+19-Nov-2015 10:38:31:[Starting GetTestData]
+19-Nov-2015 10:38:31:	Opened csv file:E:\Project\Lowis7\TestData\Results\LowisReports.csv
+19-Nov-2015 10:38:31:	Cleared old data from data sheet

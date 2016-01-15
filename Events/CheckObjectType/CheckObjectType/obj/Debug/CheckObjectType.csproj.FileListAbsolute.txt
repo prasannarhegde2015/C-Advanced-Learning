@@ -1,0 +1,8 @@
+E:\Project\C# Advanced Learning\Events\CheckObjectType\CheckObjectType\bin\Debug\CheckObjectType.exe
+E:\Project\C# Advanced Learning\Events\CheckObjectType\CheckObjectType\bin\Debug\CheckObjectType.exe.config
+E:\Project\C# Advanced Learning\Events\CheckObjectType\CheckObjectType\obj\Debug\Interop.WELLPERFORMANCESERVERLib.dll
+E:\Project\C# Advanced Learning\Events\CheckObjectType\CheckObjectType\obj\Debug\CheckObjectType.csproj.ResolveComReference.cache
+E:\Project\C# Advanced Learning\Events\CheckObjectType\CheckObjectType\bin\Debug\CheckObjectType.pdb
+E:\Project\C# Advanced Learning\Events\CheckObjectType\CheckObjectType\obj\Debug\CheckObjectType.csprojResolveAssemblyReference.cache
+E:\Project\C# Advanced Learning\Events\CheckObjectType\CheckObjectType\obj\Debug\CheckObjectType.exe
+E:\Project\C# Advanced Learning\Events\CheckObjectType\CheckObjectType\obj\Debug\CheckObjectType.pdb

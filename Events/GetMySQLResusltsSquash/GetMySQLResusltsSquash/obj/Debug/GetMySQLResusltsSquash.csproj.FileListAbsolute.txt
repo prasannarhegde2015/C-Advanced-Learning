@@ -1,0 +1,8 @@
+E:\Project\C# Advanced Learning\Events\GetMySQLResusltsSquash\GetMySQLResusltsSquash\bin\Debug\GetMySQLResusltsSquash.exe.config
+E:\Project\C# Advanced Learning\Events\GetMySQLResusltsSquash\GetMySQLResusltsSquash\bin\Debug\GetMySQLResusltsSquash.exe
+E:\Project\C# Advanced Learning\Events\GetMySQLResusltsSquash\GetMySQLResusltsSquash\bin\Debug\GetMySQLResusltsSquash.pdb
+E:\Project\C# Advanced Learning\Events\GetMySQLResusltsSquash\GetMySQLResusltsSquash\obj\Debug\GetMySQLResusltsSquash.Form1.resources
+E:\Project\C# Advanced Learning\Events\GetMySQLResusltsSquash\GetMySQLResusltsSquash\obj\Debug\GetMySQLResusltsSquash.Properties.Resources.resources
+E:\Project\C# Advanced Learning\Events\GetMySQLResusltsSquash\GetMySQLResusltsSquash\obj\Debug\GetMySQLResusltsSquash.csproj.GenerateResource.Cache
+E:\Project\C# Advanced Learning\Events\GetMySQLResusltsSquash\GetMySQLResusltsSquash\obj\Debug\GetMySQLResusltsSquash.exe
+E:\Project\C# Advanced Learning\Events\GetMySQLResusltsSquash\GetMySQLResusltsSquash\obj\Debug\GetMySQLResusltsSquash.pdb

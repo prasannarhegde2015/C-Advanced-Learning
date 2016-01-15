@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1_Eventscustom", "Example1_Eventscustom\Example1_Eventscustom.csproj", "{DDC724A3-C57C-484F-B80E-07F20001FE9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC724A3-C57C-484F-B80E-07F20001FE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC724A3-C57C-484F-B80E-07F20001FE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC724A3-C57C-484F-B80E-07F20001FE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC724A3-C57C-484F-B80E-07F20001FE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

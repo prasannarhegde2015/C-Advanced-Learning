@@ -1,0 +1,13 @@
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\LowisUMAutomation.exe.config
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\LowisUMAutomation.exe
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\LowisUMAutomation.pdb
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.Interop.dll
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.Msaa.dll
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Framework.dll
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Logging.dll
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Playback.dll
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\obj\Debug\LowisUMAutomation.exe
+E:\Project\C# Advanced Learning\TempSamples\LowisUMAutomation\LowisUMAutomation\obj\Debug\LowisUMAutomation.pdb

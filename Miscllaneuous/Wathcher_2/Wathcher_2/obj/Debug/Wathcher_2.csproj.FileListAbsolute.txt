@@ -1,0 +1,11 @@
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\Wathcher_2\Wathcher_2\bin\Debug\Wathcher_2.exe.config
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\Wathcher_2\Wathcher_2\bin\Debug\Wathcher_2.exe
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\Wathcher_2\Wathcher_2\bin\Debug\Wathcher_2.pdb
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\Wathcher_2\Wathcher_2\obj\Debug\Wathcher_2.csprojResolveAssemblyReference.cache
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\Wathcher_2\Wathcher_2\obj\Debug\Wathcher_2.exe
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\Wathcher_2\Wathcher_2\obj\Debug\Wathcher_2.pdb
+E:\Project\QATeam_Automation\Wathcher_2\Wathcher_2\bin\Debug\Wathcher_2.exe.config
+E:\Project\QATeam_Automation\Wathcher_2\Wathcher_2\obj\Debug\Wathcher_2.exe
+E:\Project\QATeam_Automation\Wathcher_2\Wathcher_2\obj\Debug\Wathcher_2.pdb
+E:\Project\QATeam_Automation\Wathcher_2\Wathcher_2\bin\Debug\Wathcher_2.exe
+E:\Project\QATeam_Automation\Wathcher_2\Wathcher_2\bin\Debug\Wathcher_2.pdb

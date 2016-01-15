@@ -1,0 +1,8 @@
+E:\Project\C# Advanced Learning\SpecFlow\TestODBC Connection\TestODBC Connection\bin\Debug\TestODBC Connection.exe.config
+E:\Project\C# Advanced Learning\SpecFlow\TestODBC Connection\TestODBC Connection\bin\Debug\TestODBC Connection.exe
+E:\Project\C# Advanced Learning\SpecFlow\TestODBC Connection\TestODBC Connection\bin\Debug\TestODBC Connection.pdb
+E:\Project\C# Advanced Learning\SpecFlow\TestODBC Connection\TestODBC Connection\obj\Debug\TestODBC_Connection.Form1.resources
+E:\Project\C# Advanced Learning\SpecFlow\TestODBC Connection\TestODBC Connection\obj\Debug\TestODBC_Connection.Properties.Resources.resources
+E:\Project\C# Advanced Learning\SpecFlow\TestODBC Connection\TestODBC Connection\obj\Debug\TestODBC Connection.csproj.GenerateResource.Cache
+E:\Project\C# Advanced Learning\SpecFlow\TestODBC Connection\TestODBC Connection\obj\Debug\TestODBC Connection.exe
+E:\Project\C# Advanced Learning\SpecFlow\TestODBC Connection\TestODBC Connection\obj\Debug\TestODBC Connection.pdb

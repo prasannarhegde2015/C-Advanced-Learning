@@ -1,0 +1,5 @@
+E:\Project\C# Advanced Learning\TempSamples\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.dll
+E:\Project\C# Advanced Learning\TempSamples\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.pdb
+E:\Project\C# Advanced Learning\TempSamples\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.csprojResolveAssemblyReference.cache
+E:\Project\C# Advanced Learning\TempSamples\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.dll
+E:\Project\C# Advanced Learning\TempSamples\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.pdb

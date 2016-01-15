@@ -1,0 +1,6 @@
+E:\Project\C# Advanced Learning\SpecFlow\compretext\compretext\bin\Debug\compretext.exe.config
+E:\Project\C# Advanced Learning\SpecFlow\compretext\compretext\bin\Debug\compretext.exe
+E:\Project\C# Advanced Learning\SpecFlow\compretext\compretext\bin\Debug\compretext.pdb
+E:\Project\C# Advanced Learning\SpecFlow\compretext\compretext\obj\Debug\compretext.csprojResolveAssemblyReference.cache
+E:\Project\C# Advanced Learning\SpecFlow\compretext\compretext\obj\Debug\compretext.exe
+E:\Project\C# Advanced Learning\SpecFlow\compretext\compretext\obj\Debug\compretext.pdb

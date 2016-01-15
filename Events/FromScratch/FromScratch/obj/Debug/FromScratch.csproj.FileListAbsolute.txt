@@ -1,0 +1,6 @@
+E:\Project\C# Advanced Learning\Events\FromScratch\FromScratch\bin\Debug\FromScratch.exe.config
+E:\Project\C# Advanced Learning\Events\FromScratch\FromScratch\bin\Debug\FromScratch.exe
+E:\Project\C# Advanced Learning\Events\FromScratch\FromScratch\bin\Debug\FromScratch.pdb
+E:\Project\C# Advanced Learning\Events\FromScratch\FromScratch\obj\Debug\FromScratch.exe
+E:\Project\C# Advanced Learning\Events\FromScratch\FromScratch\obj\Debug\FromScratch.pdb
+E:\Project\C# Advanced Learning\Events\FromScratch\FromScratch\obj\Debug\FromScratch.csprojResolveAssemblyReference.cache

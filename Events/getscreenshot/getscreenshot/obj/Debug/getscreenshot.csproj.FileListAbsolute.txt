@@ -1,0 +1,8 @@
+E:\Project\C# Advanced Learning\Events\getscreenshot\getscreenshot\bin\Debug\getscreenshot.exe.config
+E:\Project\C# Advanced Learning\Events\getscreenshot\getscreenshot\bin\Debug\getscreenshot.exe
+E:\Project\C# Advanced Learning\Events\getscreenshot\getscreenshot\bin\Debug\getscreenshot.pdb
+E:\Project\C# Advanced Learning\Events\getscreenshot\getscreenshot\bin\Debug\Helper.dll
+E:\Project\C# Advanced Learning\Events\getscreenshot\getscreenshot\bin\Debug\Helper.pdb
+E:\Project\C# Advanced Learning\Events\getscreenshot\getscreenshot\obj\Debug\getscreenshot.csprojResolveAssemblyReference.cache
+E:\Project\C# Advanced Learning\Events\getscreenshot\getscreenshot\obj\Debug\getscreenshot.exe
+E:\Project\C# Advanced Learning\Events\getscreenshot\getscreenshot\obj\Debug\getscreenshot.pdb

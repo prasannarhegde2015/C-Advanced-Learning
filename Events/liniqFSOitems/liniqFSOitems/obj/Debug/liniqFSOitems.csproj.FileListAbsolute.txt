@@ -1,0 +1,6 @@
+E:\Project\C# Advanced Learning\Events\liniqFSOitems\liniqFSOitems\bin\Debug\liniqFSOitems.exe.config
+E:\Project\C# Advanced Learning\Events\liniqFSOitems\liniqFSOitems\bin\Debug\liniqFSOitems.exe
+E:\Project\C# Advanced Learning\Events\liniqFSOitems\liniqFSOitems\bin\Debug\liniqFSOitems.pdb
+E:\Project\C# Advanced Learning\Events\liniqFSOitems\liniqFSOitems\obj\Debug\liniqFSOitems.csprojResolveAssemblyReference.cache
+E:\Project\C# Advanced Learning\Events\liniqFSOitems\liniqFSOitems\obj\Debug\liniqFSOitems.exe
+E:\Project\C# Advanced Learning\Events\liniqFSOitems\liniqFSOitems\obj\Debug\liniqFSOitems.pdb

@@ -1,0 +1,5 @@
+E:\Project\C# Advanced Learning\Events\Example1_Eventscustom\Example1_Eventscustom\bin\Debug\Example1_Eventscustom.exe.config
+E:\Project\C# Advanced Learning\Events\Example1_Eventscustom\Example1_Eventscustom\bin\Debug\Example1_Eventscustom.exe
+E:\Project\C# Advanced Learning\Events\Example1_Eventscustom\Example1_Eventscustom\bin\Debug\Example1_Eventscustom.pdb
+E:\Project\C# Advanced Learning\Events\Example1_Eventscustom\Example1_Eventscustom\obj\Debug\Example1_Eventscustom.exe
+E:\Project\C# Advanced Learning\Events\Example1_Eventscustom\Example1_Eventscustom\obj\Debug\Example1_Eventscustom.pdb

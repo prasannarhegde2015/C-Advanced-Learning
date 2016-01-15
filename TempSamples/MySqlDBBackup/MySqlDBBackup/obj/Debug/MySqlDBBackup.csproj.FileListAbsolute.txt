@@ -1,0 +1,5 @@
+E:\Project\C# Advanced Learning\TempSamples\MySqlDBBackup\MySqlDBBackup\bin\Debug\MySqlDBBackup.exe.config
+E:\Project\C# Advanced Learning\TempSamples\MySqlDBBackup\MySqlDBBackup\bin\Debug\MySqlDBBackup.exe
+E:\Project\C# Advanced Learning\TempSamples\MySqlDBBackup\MySqlDBBackup\bin\Debug\MySqlDBBackup.pdb
+E:\Project\C# Advanced Learning\TempSamples\MySqlDBBackup\MySqlDBBackup\obj\Debug\MySqlDBBackup.exe
+E:\Project\C# Advanced Learning\TempSamples\MySqlDBBackup\MySqlDBBackup\obj\Debug\MySqlDBBackup.pdb

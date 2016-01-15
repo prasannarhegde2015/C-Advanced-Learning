@@ -1,0 +1,5 @@
+E:\Project\C# Advanced Learning\Events\shipmetevent\shipmetevent\bin\Debug\shipmetevent.exe.config
+E:\Project\C# Advanced Learning\Events\shipmetevent\shipmetevent\bin\Debug\shipmetevent.exe
+E:\Project\C# Advanced Learning\Events\shipmetevent\shipmetevent\bin\Debug\shipmetevent.pdb
+E:\Project\C# Advanced Learning\Events\shipmetevent\shipmetevent\obj\Debug\shipmetevent.exe
+E:\Project\C# Advanced Learning\Events\shipmetevent\shipmetevent\obj\Debug\shipmetevent.pdb

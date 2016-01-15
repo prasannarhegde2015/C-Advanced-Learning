@@ -1,0 +1,6 @@
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\copyonlylatest\copyonlylatest\bin\Debug\copyonlylatest.exe.config
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\copyonlylatest\copyonlylatest\bin\Debug\copyonlylatest.exe
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\copyonlylatest\copyonlylatest\bin\Debug\copyonlylatest.pdb
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\copyonlylatest\copyonlylatest\obj\Debug\copyonlylatest.csprojResolveAssemblyReference.cache
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\copyonlylatest\copyonlylatest\obj\Debug\copyonlylatest.exe
+E:\Project\MSUIFramework\RelatedProjects\TestSolutions\copyonlylatest\copyonlylatest\obj\Debug\copyonlylatest.pdb

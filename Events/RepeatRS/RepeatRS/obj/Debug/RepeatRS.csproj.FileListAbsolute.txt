@@ -1,0 +1,5 @@
+E:\Project\C# Advanced Learning\Events\RepeatRS\RepeatRS\bin\Debug\RepeatRS.exe.config
+E:\Project\C# Advanced Learning\Events\RepeatRS\RepeatRS\bin\Debug\RepeatRS.exe
+E:\Project\C# Advanced Learning\Events\RepeatRS\RepeatRS\bin\Debug\RepeatRS.pdb
+E:\Project\C# Advanced Learning\Events\RepeatRS\RepeatRS\obj\Debug\RepeatRS.exe
+E:\Project\C# Advanced Learning\Events\RepeatRS\RepeatRS\obj\Debug\RepeatRS.pdb

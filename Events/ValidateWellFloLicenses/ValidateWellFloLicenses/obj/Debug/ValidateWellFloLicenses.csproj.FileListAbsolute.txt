@@ -1,0 +1,9 @@
+E:\Project\C# Advanced Learning\Events\ValidateWellFloLicenses\ValidateWellFloLicenses\bin\Debug\ValidateWellFloLicenses.exe.config
+E:\Project\C# Advanced Learning\Events\ValidateWellFloLicenses\ValidateWellFloLicenses\bin\Debug\ValidateWellFloLicenses.exe
+E:\Project\C# Advanced Learning\Events\ValidateWellFloLicenses\ValidateWellFloLicenses\bin\Debug\ValidateWellFloLicenses.pdb
+E:\Project\C# Advanced Learning\Events\ValidateWellFloLicenses\ValidateWellFloLicenses\obj\Debug\ValidateWellFloLicenses.Form1.resources
+E:\Project\C# Advanced Learning\Events\ValidateWellFloLicenses\ValidateWellFloLicenses\obj\Debug\ValidateWellFloLicenses.Properties.Resources.resources
+E:\Project\C# Advanced Learning\Events\ValidateWellFloLicenses\ValidateWellFloLicenses\obj\Debug\ValidateWellFloLicenses.csproj.GenerateResource.Cache
+E:\Project\C# Advanced Learning\Events\ValidateWellFloLicenses\ValidateWellFloLicenses\obj\Debug\ValidateWellFloLicenses.exe
+E:\Project\C# Advanced Learning\Events\ValidateWellFloLicenses\ValidateWellFloLicenses\obj\Debug\ValidateWellFloLicenses.pdb
+E:\Project\C# Advanced Learning\Events\ValidateWellFloLicenses\ValidateWellFloLicenses\obj\Debug\ValidateWellFloLicenses.csprojResolveAssemblyReference.cache

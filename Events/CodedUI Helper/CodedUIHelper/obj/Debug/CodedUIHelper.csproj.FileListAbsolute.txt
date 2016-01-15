@@ -1,0 +1,29 @@
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\CodedUI Helper.exe.config
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\CodedUI Helper.exe
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\CodedUI Helper.pdb
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.Interop.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.Msaa.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Framework.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Logging.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Playback.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\obj\Debug\CodedUIHelper.csprojResolveAssemblyReference.cache
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\obj\Debug\CodedUI Helper.exe
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\obj\Debug\CodedUI Helper.pdb
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUI Helper\bin\Debug\CodedUIHelper.exe.config
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\CodedUIHelper.exe.config
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\CodedUIHelper.exe
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\CodedUIHelper.pdb
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.Interop.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.Msaa.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Framework.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Logging.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Playback.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\obj\Debug\CodedUIHelper.csprojResolveAssemblyReference.cache
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\obj\Debug\CodedUIHelper.exe
+E:\Project\C# Advanced Learning\Events\CodedUI Helper\CodedUIHelper\obj\Debug\CodedUIHelper.pdb

@@ -1,0 +1,5 @@
+E:\Project\C# Advanced Learning\TempSamples\GetTextfrmoEventdir cards\GetTextfrmoEventdir cards\bin\Debug\GetTextfrmoEventdir cards.exe.config
+E:\Project\C# Advanced Learning\TempSamples\GetTextfrmoEventdir cards\GetTextfrmoEventdir cards\bin\Debug\GetTextfrmoEventdir cards.exe
+E:\Project\C# Advanced Learning\TempSamples\GetTextfrmoEventdir cards\GetTextfrmoEventdir cards\bin\Debug\GetTextfrmoEventdir cards.pdb
+E:\Project\C# Advanced Learning\TempSamples\GetTextfrmoEventdir cards\GetTextfrmoEventdir cards\obj\Debug\GetTextfrmoEventdir cards.exe
+E:\Project\C# Advanced Learning\TempSamples\GetTextfrmoEventdir cards\GetTextfrmoEventdir cards\obj\Debug\GetTextfrmoEventdir cards.pdb
