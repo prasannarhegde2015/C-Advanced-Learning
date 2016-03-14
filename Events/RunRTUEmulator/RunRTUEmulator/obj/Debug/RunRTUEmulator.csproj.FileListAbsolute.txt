@@ -12,4 +12,3 @@ E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\R
 E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\RunRTUEmulator.csproj.GenerateResource.Cache
 E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\RunRTUEmulator.exe
 E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\RunRTUEmulator.pdb
-E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\RunRTUEmulator.csprojResolveAssemblyReference.cache
