@@ -1,0 +1,27 @@
+E:\Project\C# Advanced Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\bin\Debug\UpdateRTUEMuXMLFiles.exe.config
+E:\Project\C# Advanced Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\bin\Debug\UpdateRTUEMuXMLFiles.exe
+E:\Project\C# Advanced Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\bin\Debug\UpdateRTUEMuXMLFiles.pdb
+E:\Project\C# Advanced Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.Form1.resources
+E:\Project\C# Advanced Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.Properties.Resources.resources
+E:\Project\C# Advanced Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.csproj.GenerateResource.Cache
+E:\Project\C# Advanced Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.exe
+E:\Project\C# Advanced Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.pdb
+E:\SourceControl\Git\C-Advanced-Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\bin\Debug\UpdateRTUEMuXMLFiles.exe.config
+E:\SourceControl\Git\C-Advanced-Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.exe
+E:\SourceControl\Git\C-Advanced-Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.pdb
+E:\SourceControl\Git\C-Advanced-Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\bin\Debug\UpdateRTUEMuXMLFiles.exe
+E:\SourceControl\Git\C-Advanced-Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\bin\Debug\UpdateRTUEMuXMLFiles.pdb
+E:\SourceControl\Git\C-Advanced-Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.Form1.resources
+E:\SourceControl\Git\C-Advanced-Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.Properties.Resources.resources
+E:\SourceControl\Git\C-Advanced-Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.csproj.GenerateResource.Cache
+E:\SourceControl\Git\C-Advanced-Learning\Events\UpdateRTUEMuXMLFiles\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.frmaddreg.resources
+E:\Project\C# Advanced Learning\Events\RTUEMUTIL\UpdateRTUEMuXMLFiles\bin\Debug\UpdateRTUEMuXMLFiles.exe.config
+E:\Project\C# Advanced Learning\Events\RTUEMUTIL\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.exe
+E:\Project\C# Advanced Learning\Events\RTUEMUTIL\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.pdb
+E:\Project\C# Advanced Learning\Events\RTUEMUTIL\UpdateRTUEMuXMLFiles\bin\Debug\UpdateRTUEMuXMLFiles.exe
+E:\Project\C# Advanced Learning\Events\RTUEMUTIL\UpdateRTUEMuXMLFiles\bin\Debug\UpdateRTUEMuXMLFiles.pdb
+E:\Project\C# Advanced Learning\Events\RTUEMUTIL\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.csprojResolveAssemblyReference.cache
+E:\Project\C# Advanced Learning\Events\RTUEMUTIL\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.Form1.resources
+E:\Project\C# Advanced Learning\Events\RTUEMUTIL\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.frmaddreg.resources
+E:\Project\C# Advanced Learning\Events\RTUEMUTIL\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.Properties.Resources.resources
+E:\Project\C# Advanced Learning\Events\RTUEMUTIL\UpdateRTUEMuXMLFiles\obj\Debug\UpdateRTUEMuXMLFiles.csproj.GenerateResource.Cache

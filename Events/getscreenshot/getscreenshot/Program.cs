@@ -37,15 +37,24 @@ namespace getscreenshot
                     break;
                 }
             }
-            ActiveWindow.SetFocus();
-            WindowPattern wndptn = (WindowPattern)ActiveWindow.GetCurrentPattern(WindowPattern.Pattern);
-            wndptn.SetWindowVisualState(WindowVisualState.Maximized);
-            System.Threading.Thread.Sleep(2000);
-            Bitmap bitmap = new Bitmap(Screen.PrimaryScreen.Bounds.Width,
-                                    Screen.PrimaryScreen.Bounds.Height);
-            Graphics graphics = Graphics.FromImage(bitmap as Image);
-            graphics.CopyFromScreen(0, 0, 0, 0, bitmap.Size);
-            bitmap.Save(  Path.Combine(screenshotlocation, Guid.NewGuid() + ".jpg"), ImageFormat.Jpeg);
+            if (ActiveWindow != null)
+            {
+                ActiveWindow.SetFocus();
+                WindowPattern wndptn = (WindowPattern)ActiveWindow.GetCurrentPattern(WindowPattern.Pattern);
+                wndptn.SetWindowVisualState(WindowVisualState.Maximized);
+                System.Threading.Thread.Sleep(2000);
+                Bitmap bitmap = new Bitmap(Screen.PrimaryScreen.Bounds.Width,
+                                        Screen.PrimaryScreen.Bounds.Height);
+                Graphics graphics = Graphics.FromImage(bitmap as Image);
+                graphics.CopyFromScreen(0, 0, 0, 0, bitmap.Size);
+                bitmap.Save(Path.Combine(screenshotlocation, Guid.NewGuid() + ".jpg"), ImageFormat.Jpeg);
+            }
+            else
+            {
+                Console.WriteLine("No Window with given Title {0} was found ", partorfulltext);
+                string spz = string.Format("No Window with given Title {0} was found ", partorfulltext);
+
+            }
         }
     }
 }

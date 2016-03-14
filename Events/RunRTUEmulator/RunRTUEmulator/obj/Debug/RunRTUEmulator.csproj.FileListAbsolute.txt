@@ -1,0 +1,15 @@
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\bin\Debug\RunRTUEmulator.exe.config
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\bin\Debug\RunRTUEmulator.exe
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\bin\Debug\RunRTUEmulator.pdb
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\bin\Debug\ConsoleControl.dll
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\bin\Debug\ConsoleControlAPI.dll
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\bin\Debug\ConsoleControl.pdb
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\bin\Debug\ConsoleControl.xml
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\bin\Debug\ConsoleControlAPI.pdb
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\bin\Debug\ConsoleControlAPI.xml
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\RunRTUEmulator.Form1.resources
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\RunRTUEmulator.Properties.Resources.resources
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\RunRTUEmulator.csproj.GenerateResource.Cache
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\RunRTUEmulator.exe
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\RunRTUEmulator.pdb
+E:\Project\C# Advanced Learning\Events\RunRTUEmulator\RunRTUEmulator\obj\Debug\RunRTUEmulator.csprojResolveAssemblyReference.cache
