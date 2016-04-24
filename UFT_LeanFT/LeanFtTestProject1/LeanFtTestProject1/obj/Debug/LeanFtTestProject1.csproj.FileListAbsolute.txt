@@ -1,0 +1,17 @@
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\LeanFtTestProject1.dll.config
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\LeanFtTestProject1.dll
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\LeanFtTestProject1.pdb
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\HP.LFT.Common.dll
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\HP.LFT.Communication.SocketClient.dll
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\HP.LFT.Report.dll
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\HP.LFT.SDK.dll
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\HP.LFT.UnitTesting.dll
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\HP.LFT.Verifications.dll
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\WebSocket4Net.dll
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\HP.LFT.SDK.xml
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\HP.LFT.UnitTesting.xml
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\HP.LFT.Report.xml
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\bin\Debug\HP.LFT.Verifications.xml
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\obj\Debug\LeanFtTestProject1.csprojResolveAssemblyReference.cache
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\obj\Debug\LeanFtTestProject1.dll
+E:\Prasanna\CSharp\C# Advanced Learning\LeanFtTestProject1\LeanFtTestProject1\obj\Debug\LeanFtTestProject1.pdb
